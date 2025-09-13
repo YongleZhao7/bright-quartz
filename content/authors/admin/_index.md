@@ -49,20 +49,17 @@ education:
     date_end: 2026-05-31
     summary: |
       GPA: 3.5/5.0
-
-      Specialized in organic synthesis and Pharmaceutical Chemistry.
-    
+      Specialized in organic synthesis and Pharmaceutical Chemistry.  
   - area: BS Pharmacy
     institution: Shenyang Pharmaceutical University
     date_start: 2019-09-01
     date_end: 2023-05-31
     summary: |
       GPA: 3.2/4.0
-
       Minored in Organic Chemistry, Pharmaceutical chemistry, Pharmacology, Pharmaceutical Analysis, Pharmaceutics
   
 work:
-  - osition: librarian
+  - position: librarian
     company_name: Feicheng Library
     date_start: 2020-01-01
     date_end: '2020-01-31'
@@ -138,4 +135,4 @@ awards:
     icon: brands/edx
 ---
 
-During my graduate studies, I mainly focused on the research of broad-spectrum antiviral natural nucleoside small molecule drugs. By modifying natural C-nucleosides to enhance their antiviral ability while reducing toxicity, I have completed the synthesis of N1-methyl-pseudouridine derivatives with 4'-modification and is currently working on the modification of Pyrazofurin. In addition, I enjoy photography and watching NBA games. While maintaining a spirit of exploration and rigor in scientific research, I also have a positive and optimistic attitude.
+During my graduate studies, I mainly focused on the research of broad-spectrum antiviral natural nucleoside small molecule drugs. By modifying natural C-nucleoside to enhance their antiviral ability while reducing toxicity, I have completed the synthesis of N1-methyl-pseudouridine derivatives with 4'-modification and is currently working on the modification of Pyrazofurin. In addition, I enjoy photography and watching NBA games. While maintaining a spirit of exploration and rigor in scientific research, I also have a positive and optimistic attitude.
