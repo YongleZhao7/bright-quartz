@@ -138,4 +138,4 @@ awards:
     icon: brands/edx
 ---
 
-During Zhao Yongle's graduate studies, he mainly focused on the research of broad-spectrum antiviral natural nucleoside small molecule drugs. By modifying natural C-nucleosides to enhance their antiviral ability while reducing toxicity, he has completed the synthesis of N1 methyl pseudouridine derivatives with 4 'modification and is currently working on the modification of Pyrazofurin. In addition, I enjoy photography and watching NBA games. While maintaining a spirit of exploration and rigor in scientific research, I also have a positive and optimistic attitude.
+During my graduate studies, I mainly focused on the research of broad-spectrum antiviral natural nucleoside small molecule drugs. By modifying natural C-nucleosides to enhance their antiviral ability while reducing toxicity, I have completed the synthesis of N1-methyl-pseudouridine derivatives with 4'-modification and is currently working on the modification of Pyrazofurin. In addition, I enjoy photography and watching NBA games. While maintaining a spirit of exploration and rigor in scientific research, I also have a positive and optimistic attitude.
