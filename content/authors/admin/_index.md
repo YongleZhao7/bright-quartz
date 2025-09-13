@@ -3,7 +3,7 @@
 title: 赵永乐
 
 # Name pronunciation (optional)
-name_pronunciation: YONG LE ZHAO
+name_pronunciation: Yong Le Zhao
 
 # Full name (for SEO)
 first_name: Yongle
@@ -20,7 +20,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Shandong University Master's degree
+role: Master of ShanDong University
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
